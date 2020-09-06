@@ -1,4 +1,4 @@
-# HTML
+# HTML이란?
 
 - HyperText Markup Langyage
 - 웹 페이지의 내용을 서술하고 정의하는 데 사용. 태그라는 개념으로 구분.태그라는 문법적 특성으로 웹 화면의 요소(element)를 표현.
