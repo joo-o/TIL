@@ -8,11 +8,11 @@
 - 순서가 있는 항목들을 나열 할 때 사용.
 - ol태그 안에 li태그 중첩
 
-<ol>
-  <li>곱창</li>
-  <li>마라상궈</li>
-  <li>파스타</li>
-</ol>
+\<ol>
+  \<li>곱창</li>
+  \<li>마라상궈</li>
+  \<li>파스타</li>
+\</ol>
 
 <br/>
 
@@ -21,8 +21,8 @@
 - 리스트를 나열할때 앞쪽에 블릿 기호 자동으로 입력됨
 - ul태그 안에 li태그 중첩
 
-<ul>
-  <li>html</li>
-  <li>css</li>
-  <li>java script</li>
-</ul>
+\<ul>
+  \<li>html</li>
+  \<li>css</li>
+  \<li>java script</li>
+\</ul>
