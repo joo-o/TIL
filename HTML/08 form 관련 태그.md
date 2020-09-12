@@ -14,8 +14,6 @@
 \<input type="checkbox" name="fruit"/>사과<br/>
 \<input type="checkbox" name="fruit"/>사과<br/>
 
-<br/>
-
 #### - button
 
 \<input type="button" value="클릭><br/>
@@ -46,12 +44,12 @@ button / submit 두가지 다 버튼이지만 submit은 최종적으로 전달 �
 - 쌍 태그로 만들어지고 태그 사이에 값을 미리 넣을 수 있음.
 - textarea 내부의 컨텐츠는 줄바꿈 인식
 
-<textarea>
+\<textarea>
   안녕하세요.
   값을 미리 입력합니다.
-  </textarea>
+\</textarea>
   
-  <br/>
+<br/>  
 
 ### label 태그
 - 사용자에게 각 입력 칸을 설명해주는 레이블을 표시.
