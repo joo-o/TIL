@@ -35,9 +35,45 @@ html로 작성된 화면 요소들을 웹 브라우저가 해석하고 프로그
 // 클래스가 panels인 div 내의 li 요소들을 가져옴 var element = document.querySelector("div.panels li");
 
 </br>
+<hr>
+</br>
 
 ### DOM 객체 추가
 
 Dom 객체를 생성해서 DOM 구조에 추가하면 화면에 표시된다.
 - document.createElement(tagName) : 새로운 DOM 노드 객체를 생성한다.
 - (특정 element).appendChild(삽입할 DOM 노드 객체) : 특정 DOM 객체 하위에 다른 DOM 객체를 삽입한다.
+
+
+</br>
+
+### DOM 객체 수정
+
+DOM 접근 API를 사용해서 필요한 객체를 가져와 innerHTML이나 style 속성으로 객체를 수정 할 수 있다.
+
+- element.innerHTML : 요소 내부의 콘텐츠 값에 접근하거나 지정 할 수 있다.
+
+- element.style : 요소가 가지고 있는 style 을 지정 할 수 있다.
+
+예1) element.style.display = 'none' // display 속성을 none으로 변경
+
+예2) element.style.fontSize = '11pt' // font-size 속성을 11로 변경
+
+</br>
+
+### DOM 객체 제거
+
+element.remove() : 자기 자신을 지운다.
+
+var element = document.getElementById('panels');
+
+element.remve();
+
+<hr>
+
+DOM에서는 -(하이픈)이 사라지고 다음에오는 글자가 대문자화가 되는 규칙이 있다. 
+
+css = font-size 
+
+DOM = fontSize
+
