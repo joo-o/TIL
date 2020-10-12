@@ -33,3 +33,11 @@ html로 작성된 화면 요소들을 웹 브라우저가 해석하고 프로그
 - document.querySelectorAll(selector) : 모든 요소
 
 // 클래스가 panels인 div 내의 li 요소들을 가져옴 var element = document.querySelector("div.panels li");
+
+</br>
+
+### DOM 객체 추가
+
+Dom 객체를 생성해서 DOM 구조에 추가하면 화면에 표시된다.
+- document.createElement(tagName) : 새로운 DOM 노드 객체를 생성한다.
+- (특정 element).appendChild(삽입할 DOM 노드 객체) : 특정 DOM 객체 하위에 다른 DOM 객체를 삽입한다.
