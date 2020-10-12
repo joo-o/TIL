@@ -38,7 +38,7 @@ html로 작성된 화면 요소들을 웹 브라우저가 해석하고 프로그
 <hr>
 </br>
 
-### DOM 객체 추가
+# DOM 객체 추가
 
 Dom 객체를 생성해서 DOM 구조에 추가하면 화면에 표시된다.
 - document.createElement(tagName) : 새로운 DOM 노드 객체를 생성한다.
@@ -47,7 +47,7 @@ Dom 객체를 생성해서 DOM 구조에 추가하면 화면에 표시된다.
 
 </br>
 
-### DOM 객체 수정
+# DOM 객체 수정
 
 DOM 접근 API를 사용해서 필요한 객체를 가져와 innerHTML이나 style 속성으로 객체를 수정 할 수 있다.
 
@@ -61,7 +61,7 @@ DOM 접근 API를 사용해서 필요한 객체를 가져와 innerHTML이나 sty
 
 </br>
 
-### DOM 객체 제거
+# DOM 객체 제거
 
 element.remove() : 자기 자신을 지운다.
 
