@@ -3,7 +3,7 @@
 
 ## History
 - 20.09.01 - 프론트엔드 개발자가 되기 위한 공부를 시작합니다.
-- 20.09.01 - [인프런 강의](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/)를 듣고 배운 내용을 정리합니다. 
+- 20.09.01 - [인프런 강의](https://www.inflearn.com/course/%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/)를 듣고 배운 내용을 정리합니다.
 
 ## Rules
 - 커밋을 위한 커밋을 하지 않는다.
